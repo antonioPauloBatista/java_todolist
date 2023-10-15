@@ -25,7 +25,7 @@ public class FilterAuthTask extends OncePerRequestFilter {
             throws ServletException, IOException {
 
         var path = request.getServletPath();
-        if (path.equals("/tasks/")) {
+        if (path.startsWith("/tasks/")) {
             var tempAut = request.getHeader("Authorization");
             var userPassword = tempAut.substring("Basic".length()).trim();
 

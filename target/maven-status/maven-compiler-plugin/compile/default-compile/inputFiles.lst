@@ -1,3 +1,10 @@
-/home/antonio/Downloads/todolist/src/main/java/br/com/bastista/todolist/TodolistApplication.java
-/home/antonio/Downloads/todolist/src/main/java/br/com/bastista/todolist/user/UserController.java
-/home/antonio/Downloads/todolist/src/main/java/br/com/bastista/todolist/user/UserModel.java
+/home/antonio/Projetos/java_todolist/src/main/java/br/com/bastista/todolist/user/UserModel.java
+/home/antonio/Projetos/java_todolist/src/main/java/br/com/bastista/todolist/user/UserController.java
+/home/antonio/Projetos/java_todolist/src/main/java/br/com/bastista/todolist/task/TaskModel.java
+/home/antonio/Projetos/java_todolist/src/main/java/br/com/bastista/todolist/task/ITaskRepositiry.java
+/home/antonio/Projetos/java_todolist/src/main/java/br/com/bastista/todolist/task/TaskController.java
+/home/antonio/Projetos/java_todolist/src/main/java/br/com/bastista/todolist/TodolistApplication.java
+/home/antonio/Projetos/java_todolist/src/main/java/br/com/bastista/todolist/user/IUserRepository.java
+/home/antonio/Projetos/java_todolist/src/main/java/br/com/bastista/todolist/utils/Utils.java
+/home/antonio/Projetos/java_todolist/src/main/java/br/com/bastista/todolist/erros/ExceptionHandlerController.java
+/home/antonio/Projetos/java_todolist/src/main/java/br/com/bastista/todolist/filter/FilterAuthTask.java
