@@ -1,4 +1,4 @@
-FROM ubuntu:lastet AS build
+FROM ubuntu:latest AS build
 
 RUN apt-get update
 
