@@ -1,0 +1,10 @@
+br/com/bastista/todolist/user/UserModel.class
+br/com/bastista/todolist/task/ITaskRepositiry.class
+br/com/bastista/todolist/utils/Utils.class
+br/com/bastista/todolist/task/TaskController.class
+br/com/bastista/todolist/TodolistApplication.class
+br/com/bastista/todolist/filter/FilterAuthTask.class
+br/com/bastista/todolist/user/UserController.class
+br/com/bastista/todolist/erros/ExceptionHandlerController.class
+br/com/bastista/todolist/task/TaskModel.class
+br/com/bastista/todolist/user/IUserRepository.class
